@@ -26,10 +26,10 @@ I build  **Robots 🤖 and Perception Systems 📸 (Camera, Radar, Lidar)!** For
 * 💼   Student at Uni Stuttgart and Aalborg University, 3D time-of-flight developer
 * 🎓   Bachelor of Engineering in Vehicle Electronics and Mechatronic Systems
 * 🌱   Currently learning how to research in the field of perception systems
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 4 years' enginnerung working experience and 1 in technology education.
 * 🏎   Ambitious about Engineering Education and Formula Student (Driverless)
 <!--* ⛵   Encouraging people for open source collaborations.
+* 📚   Reading more about Apple, Harry Potter and how the computer works.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.64 million PV / 1.06 million UV).-->
 
 
