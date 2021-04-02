@@ -25,6 +25,8 @@ I build  **Robots 🤖 and Perception Systems 📸 (Camera, Radar, Lidar)!** For
 * 🌱   Currently learning how to research in the field of perception systems
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 4 years' enginnerung working experience and 1 in technology education.
-* ⛵   Encouraging people for open source collaborations.
-<!--* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.64 million PV / 1.06 million UV).-->
+* 🏎   Ambitious about Engineering Education and Formula Student (Driverless)
+<!--* ⛵   Encouraging people for open source collaborations.
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.64 million PV / 1.06 million UV).-->
 
+https://user-images.githubusercontent.com/42101377/113446560-4d1f4700-93f8-11eb-8e38-49aeb2919dcf.mp4
