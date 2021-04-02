@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-![](https://media-exp1.licdn.com/dms/image/C4D16AQGPqRBu-2mrsw/profile-displaybackgroundimage-shrink_350_1400/0/1543782923116?e=1622678400&v=beta&t=BbExQY858O_QXxT0PxAyjwRRLx3EQf6bs_X9OVnI2CE)
 -->
 
-![Our driverless Formula Student Car, DHBW and Oregon State University](https://user-images.githubusercontent.com/42101377/113446560-4d1f4700-93f8-11eb-8e38-49aeb2919dcf.mp4)
+![](https://media-exp1.licdn.com/dms/image/C4D16AQGPqRBu-2mrsw/profile-displaybackgroundimage-shrink_350_1400/0/1543782923116?e=1622678400&v=beta&t=BbExQY858O_QXxT0PxAyjwRRLx3EQf6bs_X9OVnI2CE)
 
 I build  **Robots 🤖 and Perception Systems 📸 (Camera, Radar, Lidar)!** For fun, I also build **Driverless Race Cars** with my students.
 
@@ -32,4 +29,4 @@ I build  **Robots 🤖 and Perception Systems 📸 (Camera, Radar, Lidar)!** For
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.64 million PV / 1.06 million UV).-->
 
-
+![Our driverless Formula Student Race Car, DHBW and Oregon State University](https://user-images.githubusercontent.com/42101377/113446560-4d1f4700-93f8-11eb-8e38-49aeb2919dcf.mp4)
