@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# Hello there 👋
-
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQGPqRBu-2mrsw/profile-displaybackgroundimage-shrink_350_1400/0/1543782923116?e=1622678400&v=beta&t=BbExQY858O_QXxT0PxAyjwRRLx3EQf6bs_X9OVnI2CE)
 
 I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
