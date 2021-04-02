@@ -29,4 +29,4 @@ I build  **Robots 🤖 and Perception Systems 📸 (Camera, Radar, Lidar)!** For
 <!--* ⛵   Encouraging people for open source collaborations.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.64 million PV / 1.06 million UV).-->
 
-https://user-images.githubusercontent.com/42101377/113446560-4d1f4700-93f8-11eb-8e38-49aeb2919dcf.mp4
+![Our driverless Formula Student Car, DHBW and Oregon State University](https://user-images.githubusercontent.com/42101377/113446560-4d1f4700-93f8-11eb-8e38-49aeb2919dcf.mp4)
