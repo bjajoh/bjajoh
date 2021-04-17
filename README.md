@@ -23,7 +23,7 @@ I build  **Robots 🤖 and Perception Systems 📸 (Camera, Radar, Lidar)!** For
 * 💼   Student at University of Stuttgart and Aalborg University, 3D time-of-flight camera developer.
 * 🎓   Bachelor of Engineering in Vehicle Electronics and Mechatronic Systems.
 * 🌱   Currently learning to research in the field of Perception Systems.
-* 💻   With 3 years' enginnerung working experience and 1 in engineering education.
+* 💻   With 3 years' enginnering work experience and 1 in engineering education.
 * 🏎   Ambitious about Engineering Education and Formula Student (Driverless).
 <!--* ⛵   Encouraging people for open source collaborations.
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
