@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I build  **Robots 🤖 and Perception Systems 📸 (Camera, Radar, Lidar)!** For fun, I also build **Driverless Race Cars** with my students.
 
-* 🧐   Interested in Embedded Systems, Robotics, Computer Vison, Multi-Model Perception.
+* 🧐   Interested in Embedded Systems, Robotics, Computer Vison, Multi-Modal Perception.
 * 💼   Student at University of Stuttgart and Aalborg University, 3D time-of-flight camera developer.
 * 🎓   Bachelor of Engineering in Vehicle Electronics and Mechatronic Systems.
 * 🌱   Currently learning to research in the field of Perception Systems.
