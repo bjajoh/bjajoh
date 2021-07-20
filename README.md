@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Bjarne's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjajoh)]
+![Bjarne's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjajoh)
 
 
 I build  **Robots 🤖 and Perception Systems 📸 (Camera, Radar, Lidar)!** For fun, I also build **Driverless Race Cars** with my students.
