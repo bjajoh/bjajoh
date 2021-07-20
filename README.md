@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Bjarne's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjajoh)
 
 
 I build  **Robots 🤖 and Perception Systems 📸 (Camera, Radar, Lidar)!** For fun, I also build **Driverless Race Cars** with my students.
@@ -31,3 +30,5 @@ I build  **Robots 🤖 and Perception Systems 📸 (Camera, Radar, Lidar)!** For
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.64 million PV / 1.06 million UV).-->
 
 ![Our driverless Formula Student Race Car, DHBW and Oregon State University](https://user-images.githubusercontent.com/42101377/113446560-4d1f4700-93f8-11eb-8e38-49aeb2919dcf.mp4)
+
+![Bjarne's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjajoh)
