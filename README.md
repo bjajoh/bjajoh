@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I build  **Robots 🤖 and Perception Systems 📸 (Camera, Radar, Lidar)!** For fun, I also build **Driverless Race Cars** with my students.
+I build  **Robots (really fast ones) 🤖 and Perception Systems 📸!**
 
 * 🧐   Interested in Embedded Systems, Robotics and Perception.
 * 💼   Student at University of Stuttgart
