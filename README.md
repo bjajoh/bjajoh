@@ -21,7 +21,7 @@ I build  **Robots (really fast ones) 🤖 and Perception Systems 📸!**
 
 * 🧐   Interested in Embedded Systems, Robotics and Perception.
 * 💼   Student at University of Stuttgart
-* 🎓   Bachelor of Engineering in Electrical Engineering - Vehicle Electronics and Mechatronic Systems.
+* 🎓   Bachelor in Electrical Engineering - Vehicle Electronics and Mechatronic Systems.
 * 💻   3D time-of-flight camera developer, student supervisor (autonomous systems) and lecturer (embedded systems) 
 * 🏎   Build electric/driverless formula student race cars for 5/3 years.
 <!--* ⛵   Encouraging people for open source collaborations.
