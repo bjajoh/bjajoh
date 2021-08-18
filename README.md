@@ -23,7 +23,7 @@ I build  **Robots (really fast ones) 🤖 and Perception Systems 📸!**
 * 💼   Student at University of Stuttgart
 * 🎓   Bachelor in Electrical Engineering - Vehicle Electronics and Mechatronic Systems.
 * 💻   3D time-of-flight camera developer, student supervisor (autonomous systems) and lecturer (embedded systems) 
-* 🏎   Build electric/driverless formula student race cars for 5/3 years.
+* 🏎   Building electric/driverless formula student race cars for 5/3 years.
 <!--* ⛵   Encouraging people for open source collaborations.
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.64 million PV / 1.06 million UV).-->
