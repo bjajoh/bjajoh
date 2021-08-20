@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -28,6 +29,7 @@ I build  **Robots (really fast ones) 🤖 and Perception Systems 📸!**
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.64 million PV / 1.06 million UV).-->
 
+![barcelona_2021_visu](https://user-images.githubusercontent.com/42101377/130246833-b91ee67e-7a08-450d-8512-af5b2eb51921.png)
 ![Our driverless Formula Student Race Car, DHBW and Oregon State University](https://user-images.githubusercontent.com/42101377/113446560-4d1f4700-93f8-11eb-8e38-49aeb2919dcf.mp4)
 
 ![Bjarne's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjajoh)
