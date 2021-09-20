@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I build  **Robots (really fast ones) 🤖 and Perception Systems 📸!**
 
 * 🧐   Interested in Embedded Systems, Robotics and Perception.
-* 💼   Student at University of Stuttgart
+* 💼   Master Student at University of Stuttgart - Focus on Perception Systems for Autonomous Driving.
 * 🎓   Bachelor in Electrical Engineering - Vehicle Electronics and Mechatronic Systems.
 * 💻   3D time-of-flight camera developer, student supervisor (autonomous systems) and lecturer (embedded systems) 
 * 🏎   Building electric/driverless formula student race cars for 5/3 years.
