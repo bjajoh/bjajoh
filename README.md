@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 
 
-I build  **Robots (really fast ones) 🤖 and Perception Systems 📸!**
+I build  **Robots 🤖 and Perception Systems 📸!**
 
 * 🧐   (Mobile) Robotics, Perception (Optical Sensors, Image Processing and Deep Learning).
-* 💼   Master Student at University of Stuttgart - Focus on Perception Systems for Autonomous Driving.
+* 💼   Master at University of Stuttgart - Focus on Perception Systems for Autonomous Driving.
 * 🎓   Bachelor in Electrical Engineering - Vehicle Electronics and Mechatronic Systems.
-* 💻   Doing stuff with cameras, supervising students (autonomous systems)
-* 🏎   Building electric/driverless formula student race cars for 5/3 years.
+* 💻   Building a startup.
+* 🏎   Also building electric/driverless formula student race cars for many years in my spare time.
 <!--* ⛵   Encouraging people for open source collaborations.
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.64 million PV / 1.06 million UV).-->
