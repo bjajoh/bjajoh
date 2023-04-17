@@ -31,6 +31,3 @@ I build  **Robots 🤖 and Perception Systems 📸!**
 
 ![automation_2_0](https://user-images.githubusercontent.com/42101377/232340319-12bbe7f3-981b-4d39-aa77-504da826e69a.jpg)
 
-![Our driverless Formula Student Race Car, DHBW and Oregon State University](https://user-images.githubusercontent.com/42101377/113446560-4d1f4700-93f8-11eb-8e38-49aeb2919dcf.mp4)
-
-![Bjarne's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjajoh)
